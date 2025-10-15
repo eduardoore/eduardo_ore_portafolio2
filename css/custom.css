@@ -10,7 +10,7 @@
 
 body{
 	font-size: 16px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Arial', sans-serif;
 	background: #111;
 	color: #707070;
 }
@@ -174,7 +174,7 @@ header .navbar{
 }
 
 .navbar-brand h1{
-	font-family: 'Poppins', cursive;
+	font-family: 'Arial', cursive;
 	font-weight: normal;
 	transition: all 0.3s;
 	color: #0774bb;
